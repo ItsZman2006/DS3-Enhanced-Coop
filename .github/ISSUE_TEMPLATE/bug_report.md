@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to bring an issue to my attention
 title: "[BUG] A brief summary goes here"
 labels: ''
 assignees: ''
@@ -12,3 +12,5 @@ Hey! Thanks for taking time out of your day to report this issue to me! Its gonn
 2. How did it happen?
 3. Steps to reproduce
 4. Version of the mod you're using
+
+Please delete all text once you begin typing your issue (Control + A then backspace then start typing your issue :D)
