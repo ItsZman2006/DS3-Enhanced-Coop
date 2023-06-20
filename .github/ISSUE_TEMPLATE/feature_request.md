@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this mod
-title: "[SUGGESTION] Your request goes here"
+title: "[SUGGESTION] A brief summary goes here"
 labels: ''
 assignees: ''
 
