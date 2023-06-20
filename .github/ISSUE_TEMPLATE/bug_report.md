@@ -13,4 +13,4 @@ Hey! Thanks for taking time out of your day to report this issue to me! Its gonn
 3. Steps to reproduce
 4. Version of the mod you're using
 
-Please delete all text once you begin typing your issue (Control + A then backspace then start typing your issue :D)
+Please delete all text before you begin typing your issue (Control + A then backspace then start typing your issue :D)
